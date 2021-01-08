@@ -65,7 +65,7 @@ h1 {
   width: 85%;
   margin: 0 auto;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 .left {
   position: fixed;
